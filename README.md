@@ -1,2 +1,2 @@
 # frames
-Initial calculations for txt file analysis of group conversations.
+Get up the features that Qualichat is codding in Python. Look up Qualichat Wiki.
